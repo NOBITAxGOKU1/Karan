@@ -1,7 +1,7 @@
 <h1 align="center">🎵 Nobita music bot 🎵</h1>
 
 <p align="center">
-  <img src="https://graph.org/file/74ba86bb8e13b02d88ddc-c676bad5de380b6098.jpg" alt="Nobita Music Logo" width="600" height="150">
+  <img src="https://graph.org/file/83d68759a83c4e629dd64-5b638fb07351e295b4.jpg" alt="Nobita Music Logo" width="600" height="150">
 </p>
 
 <p align="center">
